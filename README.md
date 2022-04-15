@@ -12,7 +12,7 @@
 
   ## Usage
 
-  The deployed application can be viewed here:  
+  The deployed application can be viewed here: https://pwa-text-editor2468.herokuapp.com/
 
   ![](/Assets/preview.jpeg)
  
